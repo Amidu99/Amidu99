@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Amidu Shamika..<br>Software Developer</h3>
+<h3 align="center">ʜɨ 👋, ɨ'ʍ Aʍɨɖʊ ʂɦaʍɨӄa..<br>𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝕯𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋</h3>
 <p align="center"><img src="https://github.com/Amidu99/Amidu99/assets/125728431/2d41006a-9fdf-4d87-884a-721c43a7cc5e" width=500 alt="Amidu99"/></p>
 
 # 🤖About Me:
