@@ -18,7 +18,7 @@
 <br><br>
 <h1 align="center"> 📊 GitHub Stats </h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amidu99&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amidu99&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true"/>
 </p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Amidu99&theme=vision-friendly-dark&hide_border=true"/></p>
 <p align="center">
