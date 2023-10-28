@@ -40,20 +40,5 @@
 <h2 align="center"> 🏆 GitHub Trophies </h2>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Amidu99&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4"/></p>
 <h3 align="center"> Profile 3D Contributions 🔰</h3>
-<div align="center">
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-</div>
+<div align="center"><img src="https://github.com/Amidu99/Amidu99/blob/main/github-contribution-Amidu99.svg"/></div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=amidu99&label=Profile%20views&color=FFBF00&style=flat" alt="amidu99"/></p>
