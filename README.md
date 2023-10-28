@@ -31,3 +31,10 @@
 <h3 align="center"> 🔝 Top Contributed Repo </h3>
 <p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=Amidu99&limit=5&theme=dark&combine_all_yearly_contributions=true"/></p><hr>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=amidu99&label=Profile%20views&color=FFBF00&style=flat" alt="amidu99"/></p>
+
+![Snake animation](https://raw.githubusercontent.com/Amidu99/Amidu99/output/github-contribution-grid-snake-dark.svg)
+
+
+
+
+
