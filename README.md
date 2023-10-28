@@ -1,4 +1,4 @@
-<h3 align="center">ʜɨ 👋, ɨ'ʍ Aʍɨɖʊ ʂɦaʍɨӄa..</h3>
+<h3 align="center"> ʜɨ 👋, ɨ'ʍ Aʍɨɖʊ ʂɦaʍɨӄa..</h3>
 <div align="center"> 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=fff&background=EB00FF00&center=true&vCenter=true&width=500&height=20&lines=Fʊʟʟ-staċҡ+Dɛʋɛʟօpɛʀ+fʀօʍ+ʂʀɨ+ʟaռҟa;ʂօftաaʀɛ+Dɛʋɛʟօpɛʀ;աɛb+Dɛʋɛʟօpɛʀ;ɢaʍɛ+Dɛʋɛʟօpɛʀ;ʊɨ/ʊx+Dɛsɨɢռɛʀ;)](https://git.io/typing-svg)
