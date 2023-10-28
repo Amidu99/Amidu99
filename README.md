@@ -1,7 +1,7 @@
 <h3 align="center"> ʜɨ 👋, ɨ'ʍ Aʍɨɖʊ ʂɦaʍɨӄa..</h3>
 <div align="center"> 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=fff&background=EB00FF00&center=true&vCenter=true&width=500&height=20&lines=Fʊʟʟ-staċҡ+Dɛʋɛʟօpɛʀ+fʀօʍ+ʂʀɨ+ʟaռҟa;ʂօftաaʀɛ+Dɛʋɛʟօpɛʀ;աɛb+Dɛʋɛʟօpɛʀ;ɢaʍɛ+Dɛʋɛʟօpɛʀ;ʊɨ/ʊx+Dɛsɨɢռɛʀ;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=fff&background=EB00FF00&center=true&vCenter=true&width=500&height=20&lines=Full-stacҡ+Developer+from+Sri+Lanka;Software+Developer;Web+Developer;Game+Developer;UI/UX+Designer;)](https://git.io/typing-svg)
 </div>
 <p align="center"><img src="https://github.com/Amidu99/Amidu99/assets/125728431/2d41006a-9fdf-4d87-884a-721c43a7cc5e" width=500 alt="Amidu99"/></p>
 <h1 align="center"> 🤖About Me </h1>
@@ -36,9 +36,9 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amidu99&theme=vision_friendly_dark"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amidu99&theme=vision_friendly_dark"/>
 <p>
-<br>
+<hr>
 <h2 align="center"> 🏆 GitHub Trophies </h2>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Amidu99&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4"/></p>
-<h3 align="center"> Profile 3D Contributions 🔰</h3>
-<div align="center"><img src="https://github.com/Amidu99/Amidu99/blob/main/github-contribution-Amidu99.svg"/></div>
+<h3 align="center"> 🔰 Profile 3D Contributions </h3>
+<div align="center"><img src="https://github.com/Amidu99/Amidu99/blob/main/github-contribution-Amidu99.svg"/></div><hr>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=amidu99&label=Profile%20views&color=FFBF00&style=flat" alt="amidu99"/></p>
