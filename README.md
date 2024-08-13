@@ -8,7 +8,7 @@
 <p align="center">
 ⚙️ I’m currently working on <b>My Workfolio</b><br>
 📖 I’m currently learning <b>Mobile App Development</b><br>
-👨‍💻 All of my projects are available @ https://github.com/Amidu99?tab=repositories<br>
+👨‍💻 All of my projects are available @ https://amidu99.github.io/MyWorkfolio/<br>
 📧 How to reach me <b>amidushamika@gmail.com</b> & 👇</p>
 <h2 align="center"> 🌐 Socials </h2>
 <div align="center">
